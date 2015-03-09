@@ -1,6 +1,7 @@
 This project is built using VS 2013 and .NET Framework 4.5.1
 
 For simplicity I used direct links to assemblies and not Nuget packages
+There is hardcoded demo api key, you may change it with your key. 
 
 Known issues:
 It looks like documentation on Response fields here https://api.data.gov/docs/nrel/transportation/alt-fuel-stations-v1/
